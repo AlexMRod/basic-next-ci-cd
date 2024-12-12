@@ -26,6 +26,7 @@ export default function Home() {
         className={`${styles.page} ${geistSans.variable} ${geistMono.variable}`}
       >
         <main className={styles.main}>
+        <h1>CHICHI PELADO</h1>
           <Image
             className={styles.logo}
             src="/next.svg"
@@ -48,6 +49,7 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
+            <h1> CHI CHI</h1>
               <Image
                 className={styles.logo}
                 src="/vercel.svg"
